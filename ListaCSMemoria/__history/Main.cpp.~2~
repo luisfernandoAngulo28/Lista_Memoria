@@ -1,0 +1,19 @@
+#include <iostream>
+#include "CSMemoria.h"
+#include "ULista_Sim.h"
+int main(){
+	CSMemoria* MiMemoria;
+	ListaS* L;
+	///Constructores
+
+	MiMemoria=new 	CSMemoria();
+	cout << "\nLa memoria ------------------------- "<<endl;
+	MiMemoria->mostrar();
+	cout << "\n Fin Memoria------------------------------ "<<endl;
+	L=new ListaS(MiMemoria);
+	cout << "\n Lista"<<L->to_str()<<endl;
+
+  system("pause");
+  return 0;
+
+}

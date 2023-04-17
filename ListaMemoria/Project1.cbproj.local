@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/04/15 15:15:48.000.398,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/04/15 15:15:49.000.388,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2023/04/15 15:16:28.000.358,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\File2.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\File2.cpp</Transaction>
+    <Transaction>2023/04/15 15:18:44.000.419,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/04/15 15:21:16.000.667,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\CSMemoria.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/04/15 15:21:16.000.667,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\CSMemoria.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/04/15 15:23:22.000.397,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\CSMemoria.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\CSMemoria.cpp</Transaction>
+    <Transaction>2023/04/15 15:23:22.000.397,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\CSMemoria.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\CSMemoria.h</Transaction>
+    <Transaction>2023/04/15 15:23:25.000.397,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\Project1PCH1.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/04/15 15:23:29.000.170,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\Project1.cbproj=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023/04/15 15:23:38.000.831,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\Main.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\File2.cpp</Transaction>
+    <Transaction>2023/04/15 15:24:38.000.310,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\Unit1.cpp</Transaction>
+    <Transaction>2023/04/15 15:25:19.000.104,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\ULista_Sim.cpp=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\Unit1.cpp</Transaction>
+    <Transaction>2023/04/15 15:25:19.000.104,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\ULista_Sim.h=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\ListaMemoria\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

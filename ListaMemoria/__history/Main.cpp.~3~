@@ -1,0 +1,27 @@
+#include <iostream>
+#include "CSMemoria.h"
+#include "ULista_Sim.h"
+int main(){
+	CSMemoria* MiMemoria;
+
+	ListaS* L;
+	MiMemoria = new CSMemoria();
+	//cout << "\nLa memoria ------------------------- "<<endl;
+	//MiMiMemria->mostrar();
+	//cout << "\n Fin Memoria------------------------------ "<<endl;
+	L = new ListaS(MiMemoria);
+   /*cout << "\n Inicio La Lista ------------------------- "<<endl;
+
+	cout << "\n Lista"<<L->to_str()<<endl;
+	cout << "\n Fin La Lista ------------------------- "<<endl;  */
+	int z = MiMemoria->new_espacio("karol,esthefany,ortiz,rocha");
+
+	MiMemoria->poner_dato(z,"->karol",MiMemoria->obtenerDato(z,"->karol")+2);
+	L->inserta_primero(100);
+	L->inserta_ultimo(200);
+	L->inserta(L->fin(),150);
+	MiMemoria->mostrar();
+
+	system("pause");
+}
+

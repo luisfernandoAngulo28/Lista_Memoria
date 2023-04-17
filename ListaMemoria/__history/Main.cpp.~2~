@@ -1,0 +1,17 @@
+#include <iostream>
+#include "CSMemoria.h"
+#include "ULista_Sim.h"
+int main(){
+  keorCSMemoria* MiMemkeor;
+	ListaS* Lkeor;
+	MiMemkeor = new keorCSMemoria();
+	Lkeor = new ListaS(MiMemkeor);
+int z = MiMemkeor->new_espacio("karol.esthefany.ortiz.rocha");
+MiMemkeor->poner_dato(z,"->karol",MiMemkeor->obtenerDato(z,"->karol")+2);
+Lkeor->inserta_primero(100);
+Lkeor->inserta_ultimo(200);
+Lkeor->inserta(Lkeor->fin(),150);
+MiMemkeor->mostrar();
+system("pause");
+}
+
